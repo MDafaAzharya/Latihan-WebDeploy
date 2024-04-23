@@ -1,0 +1,11 @@
+.bg-menu-theme.menu-vertical .menu-item.active > .menu-link:not(.menu-toggle) {
+  background: linear-gradient(72.47deg, #00a39d 22.16%, #f6ad3c 76.47%)!important;
+}
+
+aside#layout-menu {
+  background: #ddf2f2!important;
+}
+
+.text-secondary{
+  color: #f6ad3c !important;
+}
